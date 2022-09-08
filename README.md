@@ -1,6 +1,6 @@
-# unitconverter
+# About
 
-Unit Converter
+Unit Converter - A Samsung OneUI themed application.
 
 ## Getting Started
 

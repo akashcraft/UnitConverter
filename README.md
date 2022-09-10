@@ -13,7 +13,7 @@ To view source code, simply go into the lib folder for the dart files along with
 
 This project was made in flutter. You are free to use this code in part or in whole.  
 If you would like to credit me, then here is the text:  
-Source Code: https://github.com/akashcraft/Wordle-Python  
+Source Code: https://github.com/akashcraft/UnitConverter  
 AkashCraft: [youtube.com/c/AkashCraft2](https://youtube.com/c/AkashCraft2)  
 Copyright AkashCraft 2022  
 

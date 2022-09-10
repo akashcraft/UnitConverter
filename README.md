@@ -1,4 +1,4 @@
-# About
+# About this App
 
 Unit Converter - A Samsung OneUI themed application.
 

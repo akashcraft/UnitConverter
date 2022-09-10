@@ -7,7 +7,7 @@ Unit Converter - A Samsung OneUI themed application.
 
 ## Instructions
 
-Simply go into the lib folder for the dart files along with the pages.  
+To view source code, simply go into the lib folder for the dart files along with the app pages.  
 
 ## Who can use this?
 

@@ -6,16 +6,18 @@ Unit Converter - A Samsung OneUI themed application.
 
 
 ## Instructions
-
 To view source code, simply go into the lib folder for the dart files along with the app pages.  
 
+
 ## Who can use this?
+You are free to download and edit the source code files however you like. But, Quest Plunge is not to be repackaged or resold for any commercial purpose(s).
+Should you wish to publish this in your project or socials, please provide appropriate credits.
 
-This project was made in flutter. You are free to use this code in part or in whole.  
-If you would like to credit me, then here is the text:  
-Source Code: https://github.com/akashcraft/UnitConverter  
-AkashCraft: [youtube.com/c/AkashCraft2](https://youtube.com/c/AkashCraft2)  
-Copyright AkashCraft 2022  
+You can add this as your references (or description) if you like:
 
-You may even complete the whole application in your design using this template.  
-Perhaps, give a shout out or collaborate? Up to you. Enjoy.
+Source Code: https://github.com/akashcraft/UnitConverter<br>
+Website: [akashcraft.ca](https://akashcraft.ca)
+
+## Donation
+If you like my work and would like to donate me, I would really appreciate it!<br><br>
+[<img src="https://github.com/user-attachments/assets/2ebd1ec4-0b2c-476d-98d1-267a08e9cd16">](https://www.paypal.com/donate/?business=YFEQJ9D5KR9PW&no_recurring=0&item_name=Thank+you+for+considering+to+donate+me%21+This+way+I+can+keep+developing+more+applications+for+you.&currency_code=CAD)

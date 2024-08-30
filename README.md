@@ -10,7 +10,7 @@ To view source code, simply go into the lib folder for the dart files along with
 
 
 ## Who can use this?
-You are free to download and edit the source code files however you like. But, Quest Plunge is not to be repackaged or resold for any commercial purpose(s).
+You are free to download and edit the source code files however you like.
 Should you wish to publish this in your project or socials, please provide appropriate credits.
 
 You can add this as your references (or description) if you like:
